@@ -1,0 +1,1 @@
+﻿Esri中国2013年开发者大会“ArcGIS 10.1 for Desktop扩展开发之路”将做演示示例代码。Demo在基于Visual Stdio 2010&ArcGIS Desktop10.1&ArcObjects SDK for Microsoft .NET FrameWork构建。这个示例代码是用来演示以Add-in方式创建一个Editor extension，以实现对ArcMap进行编辑扩展的功能。
